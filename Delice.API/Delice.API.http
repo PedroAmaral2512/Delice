@@ -1,0 +1,6 @@
+@Delice.API_HostAddress = http://localhost:5089
+
+GET {{Delice.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
