@@ -1,3 +1,11 @@
+git config --global user.name PedroAamral2512
+git config --global user.email pedroenrique25pro@gmail.com
+
+
+
+
+
+
 1. Definir com o grupo um nome para a sua loja e o segmento de mercado a ser abordado;
 
 
